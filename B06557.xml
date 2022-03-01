@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honourable the Commons of England assembled in Parliament, the humble proposals of James Whiston, for advance of his majesties revenue on double brandies, &amp;c. Encouragement of loyal subjects, merchants and others, encrease of navigation, and the prevention of frauds, perjuries, and other abuses.</title>
+            <author>Whiston, James, 1637?-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06557</idno>
+            <idno type="STC">Wing W1688A</idno>
+            <idno type="STC">ESTC R186467</idno>
+            <idno type="EEBO-CITATION">47012719</idno>
+            <idno type="OCLC">ocm 47012719</idno>
+            <idno type="VID">174686</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06557)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174686)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2695:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honourable the Commons of England assembled in Parliament, the humble proposals of James Whiston, for advance of his majesties revenue on double brandies, &amp;c. Encouragement of loyal subjects, merchants and others, encrease of navigation, and the prevention of frauds, perjuries, and other abuses.</title>
+                  <author>Whiston, James, 1637?-1707.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,]</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Universität Göttingen Bibliothek.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons.</term>
+               <term>Alcohol --  Taxation --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:174686:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:174686:1" rendition="simple:additions"/>
+            <head>
+               <hi>To the HONOURABLE The Commons OF ENGLAND ASSEMBLED IN PARLIAMENT,</hi> The Humble <hi>PROPOSALS</hi> of <hi>James Whiſton,</hi> For Advance of his Majeſties <hi>REVENUE</hi> on Double <hi>Brandies, &amp;c.</hi> Encou<g ref="char:EOLhyphen"/>ragement of Loyal Subjects, Merchants and others, Encreaſe of <hi>Navigation,</hi> and the Prevention of <hi>Frauds, Perjuries,</hi> and other <hi>Abuſes.</hi>
+            </head>
+            <p>THat till a little before the late dreadful <hi>Sickneſs, French Spirits</hi> paid but 4 <hi>
+                  <abbr>d.</abbr> per</hi> Gallon Exciſe, they being then generally uſed as the Ground work to make <hi>Strong-waters</hi> withall, which are dulcifyed, mixt with Seeds, <hi>&amp;c.</hi> But about the ſaid Sickneſs-year, the People betaking themſelves to the drinking <hi>Brandy ſimple</hi> in the room of Strong-waters perfectly made, a Diſpute and great Suits of Law between his Majeſty and the Importers aroſe, whether the ſaid Commodity ſhould pay 4 <hi>
+                  <abbr>d.</abbr> per</hi> Gallon more, as Strong<g ref="char:punc">▪</g>waters perfectly made did, or not? The Merchants applyed themſelves to the Parliament then ſitting for Relief, who declared in an <hi>Explanatory Act</hi> in the 22d of his late Majeſty, that Brandy was, and is a Strong-water <hi>perfectly made,</hi> and accordingly Enacted it ſhould pay an Exciſe of 4 <abbr>
+                  <hi>d.</hi>
+               </abbr> more <hi>per</hi> Gallon, as ſuch; by which Term of <hi>Brandy</hi> in the ſaid Act was, no doubt, intended only <hi>ſingle Brandy,</hi> and by the words <hi>perfect<g ref="char:EOLhyphen"/>ly made</hi> was meant no more but perfectly <hi>made potable,</hi> or to the uſual Standard of ſuch Spirits call'd <hi>Proof;</hi> Single Brandy being then and ever ſince drank in lieu of Strong-waters: Nor was there any ſuch thing commonly Imported here as <hi>dou<g ref="char:EOLhyphen"/>ble Brandy</hi> at that time. But now of late it is become a great practice to draw their Spirits (here now call'd <hi>Brandy</hi>) into two Thirds, three Fifths, and ſome<g ref="char:EOLhyphen"/>times full double in ſtrength ſtronger than the former ſingle Spirits or Brandies uſually were, (for Brandies may be known to a ſixty fourth part, how much they are made above that Standard intended by the Act under the term or word <hi>perfectly made,</hi> which is the ſame with what Dealers in that Commodity call <hi>Proof,</hi> or ſin<g ref="char:EOLhyphen"/>gle Brandy.</p>
+            <p>And on purpoſe to defraud his Majeſty of his Revenue therein, a very great part of the Brandies Imported are, and moſt, or all, (if not ſpeedily prevented) will be Imported two Thirds, three Fifths, and ſome full double in Strength ſtronger than common <hi>ſingle and potable Brandy</hi> ought to be: But after the Importer of ſuch <hi>dou<g ref="char:EOLhyphen"/>ble</hi> Brandies hath paid the Exciſe at 8 <hi>
+                  <abbr>d.</abbr> per</hi> Gallon only, ſuch <hi>double goods</hi> not be<g ref="char:EOLhyphen"/>ing <hi>potable,</hi> unleſs they are <hi>lower'd</hi> with Water, the too common abuſe is to adul<g ref="char:EOLhyphen"/>terate
+<pb n="2" facs="tcp:174686:2"/>them with <hi>Engliſh Spirits</hi> of a far cheaper value, whereby the Quantity vended is not only ſometimes made <hi>double,</hi> and oft-times near <hi>treble</hi> more than what his Majeſty was paid <hi>Duty</hi> for; but his Majeſties Subjects have not the ſaid Commodity in ſo good and <hi>wholſome a kind</hi> as in Juſtice they ought.</p>
+            <p>As Brandies perfectly made in Forreign Parts, are alwayes underſtood to be ſuch as are potable, or only proof; ſo the like is obſerved in <hi>Engliſh Spirits</hi> made here, which pay a Duty; for if made <hi>Double,</hi> (as ſome are for Lackering, and Phyſical, and other uſes) the Officer charges and makes them pay according to the Quality, reducing it to ſingle; elſe the Diſtillers would make them general<g ref="char:EOLhyphen"/>ly <hi>Double,</hi> (as they do Brandy aforeſaid in other Parts) and after the Duty at the rate of <hi>Single</hi> is paid, then they would lower them again, by which means his Majeſty would be defrauded at home of that Duty the Parliament intended, as he is now by ſuch <hi>Importations</hi> from abroad; and certainly there is leſs reaſon his Majeſty ſhould be defrauded in a <hi>greater</hi> Revenue by an <hi>Imported</hi> Liquor, than in a ſmaller matter by his <hi>own</hi> Subjects here at home.</p>
+            <p>Alſo were the Importers of <hi>Double Brandy</hi> diſcouraged from ſuch Importations, (which might forthwith be done by laying on a Duty in the Exciſe, proportio<g ref="char:EOLhyphen"/>nably to what they are in ſtrength ſtronger than Single, and Potable Brandy) there would be Imported near double the Quantity in Single, which would add to his Majeſties Revenue, and encourage Navigation, and keep his Majeſties Sub<g ref="char:EOLhyphen"/>jects from being couzened, <hi>&amp;c.</hi> And it will prevent the abuſes of great numbers of <hi>French</hi> and other Aliens here, who lye ſculking in Corners, and are the general Importers and Adulterators of the ſaid Double Brandies, who do not only the Injuries aforeſaid, <note place="margin">The better to pre<g ref="char:EOLhyphen"/>vent the running of Brandies here<g ref="char:EOLhyphen"/>after may it be enacted that no Brandies be im<g ref="char:EOLhyphen"/>ported in any Cask leſs than <hi>84</hi> Gallons.</note> but oft-times defraud his Majeſty of very much Duty; and hereby his Majeſties able and worthy Subjects, Merchants of better Reputation and Principles than to Adulterate or Save the Duty of the ſaid Commodity, are very much diſcouraged, and beat out of their former fair Trade. Beſides, the prevention of the ſaid frauds, will keep divers from <hi>Forſwearing</hi> themſelves, who too often upon Shipping out of ſuch lower'd and mixt Brandies, make Oath that they are as they were imported, and thereby may <hi>draw back</hi> one half of the Cuſtoms for ſuch Goods.</p>
+            <p>It is provided by Law, (the 15 of <hi>Charles</hi> the Second) That if a Brewer brew <hi>double Drink,</hi> and payes the Duty of ſtrong, yet if he ſhall be found <hi>lowering</hi> of it, he forfeits 20 <hi>
+                  <abbr>s.</abbr> per</hi> Barrel, which indeed the Brewers too fre<g ref="char:EOLhyphen"/>quently do, it being difficult to be diſcovered, and alſo the Victualler doth take his quantity of double Drink in Casks by it ſelf, and of ſmall Beer by it ſelf, which payes in each <hi>ſpecie,</hi> one as ſingle <hi>ſtrong</hi> Drink, and the other as <hi>ſmall,</hi> yet afterwards this Victualler in drawing them out by <hi>Retail,</hi> ſhall draw ſuch a proportion of one and the other together, ſo that in truth he ſells them <hi>both for ſtrong Drink.</hi> Beſides, if he ſell this double or treble drink <hi>intire,</hi> it is ſtill the <hi>ſame fraud</hi> to the King, ſince while he payes Exciſe but as for Common ſtrong Drink, he ſells it for <hi>double</hi> the Price or more, and the ſame ſupplyes the room of as much more drink in quantity, proportionably to the Improvement made in ſtrength and quality. And the Collectors may as well be Judges thereof, as now they are if any ſhall brew ſtrong Drink, and call or pretend to ſell it under the Notion of <hi>Small,</hi> yet they juſtly oblige them to pay according to its <hi>kind,</hi> and ſo it may be done in all other Caſes <hi>ad Valorem</hi> above what it ſhall be worth more than the current Price. It is therefore humbly ſubmited, whether if the Brewer were thus in all Caſes made to pay a Duty for double or treble Drink proportionably to its value above ſingle, it might not only prevent the ſaid Frauds, but levy a Duty according to the true in<g ref="char:EOLhyphen"/>tent of the Act of Parliament.</p>
+            <p>Now for the prevention of the aforeſaid Frauds, and plain diſtinguiſhing of
+<pb n="3" facs="tcp:174686:2"/>all ſuch Brandies as ſhall be imported hereafter; and the better to enable his Majeſty to levy an equal Duty upon the ſame, and to decide the Controver<g ref="char:EOLhyphen"/>ſie between his Majeſty and his Subjects about that Branch of the Revenue, which his Majeſty without doubt hath already a Right unto, it is humbly Prayed that this Honourable Houſe would be pleaſed to <hi>Explain the ſaid Act,</hi> and declare all ſuch Brandies to pay from a Penny to Eight Pence <hi>per</hi> Gallon over and above <hi>ſingle</hi> Brandy, proportionably to what they ſhall be found <hi>above proof</hi> and <hi>perfectly made,</hi> which every Artiſt, and moſt Dealers in the Com<g ref="char:EOLhyphen"/>modity do well know, elſe they could not buy and ſell the ſame at Prizes proportionate to its ſtrength and goodneſs; and even at this time in the Cu<g ref="char:EOLhyphen"/>ſtome-houſe they enter <hi>ad Valorem</hi> in one and the ſame day <hi>ſingle</hi> Brandy at 24 <hi>
+                  <abbr>s.</abbr> per</hi> Tun, and ſo on proportionably to the value to 48 <hi>
+                  <abbr>s.</abbr> per</hi> Tun, accord<g ref="char:EOLhyphen"/>ing to the diſtinctions of the ſaid Brandies as they are above <hi>proof,</hi> which Me<g ref="char:EOLhyphen"/>thod and Practice having for about ſixteen years been diſcontinued, this <hi>Pro<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſer</hi> hath lately in Print remonſtrated the Prejudice thereby done <hi>the Crown;</hi> whereupon the ſame was revived, and appears ſo juſt and reaſonable, that the very Importers themſelves are ſatisfied therein.</p>
+            <p>It is further humbly ſubmitted, that if the ſaid <hi>ſingle</hi> Brandies were made to pay 4 <hi>
+                  <abbr>d.</abbr> per</hi> Gallon more at leaſt (provided our Engliſh Spirits and <hi>Aqua Vitae</hi> be advanced one fourth more alſo) yet it would not leſſen the Importation, the Conſumption thereof being daily more and more in uſe and eſteem, even to the utter Ruine and Hinderance of all other imported Strong-waters; and alſo diminiſhing of our Engliſh Beer and Ale and other Manufactures. Beſides, it is the moſt <hi>whole Family killing</hi> Liquor that ever came up ſince the Creati<g ref="char:EOLhyphen"/>on, as by daily experience, the very Dealers therein themſelves, as well as others, are ready to averr. And what Reaſon can be Alleadged, That 3, 4, 5, 6, to 7, or more Tuns of Wines abroad, ſhall be diſtilled into one Tun of Brandy, and yet that Tun of Brandy, which doth ſo much miſchief, ſhould pay but a little above half the Duty of one Tun of Wine: The Truth is, were the Duty far more upon Brandies, it would neither hinder the Impor<g ref="char:EOLhyphen"/>tation, nor does it affect the <hi>Engliſh,</hi> but the <hi>French;</hi> for they muſt continue the making of them, as much as ever; for they chiefly make ſuch Wines into Brandy as ly<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up ſo far in the Countrey, that they cannot with advantage bring them down <hi>in ſpecie,</hi> or have ſale for. And the ſame motive ſtill continuing, they will be glad to accept any prizes, rather than make nothing of them.</p>
+            <p>Whereas it may be Objected, that if a greater Duty be laid upon Brandies, or other Commodities, his Majeſty will not receive ſo much in his Revenue thereon as before, by Reaſon that then there would be the proſpect of ſo great a profit to the Importers, as may tempt them to uſe more Tricks to bring the ſame in privately, and defraud his Majeſty of his Duties (which is commonly call'd <hi>Running of Goods.</hi>) — In Anſwer to this, 'tis humbly ſubmitted to Conſideration, whether neceſſary and profitable Laws ought to be forborn out of reſpect to ſuch kind of Perſons and their Ill courſes, or whether rather all Offenders in that kind ought not by the ſeverity of good and wholſome Laws to be ſo chaſtized, as may deter them and others from ſuch unjuſt, diſloyal and ungodly Practices: For ſince the Laws of God and Man do juſtly condemn Cheaters, Couſeners, Thieves, <hi>&amp;c.</hi> betwixt par<g ref="char:EOLhyphen"/>ty and party to be both Fined and Corporally puniſhed, according to the Na<g ref="char:EOLhyphen"/>ture and Circumſtances of the Perſons and their Offences; I ſee no reaſon why thoſe who live in the conſtant practice of Robbing and Defrauding their SO<g ref="char:EOLhyphen"/>VERAIGN, and get large Eſtates thereby, ſhould eſcape free from being liable to the like Fines and Corporal Puniſhments. For as the Sin can be no leſs to ſteal from or defraud his Majeſty, of that which is his Majeſties Right, than it is for private Perſons to Cozen and Cheat one another, ſo in the former Caſe, both the Inſolency is the greater, a Crime next to Sacriledge, the Example more pernicious, and the Conſequences much more dangerous,
+<pb n="4" facs="tcp:174686:3"/>as impairing the Publick Revenue eſtabliſht for the ſupport of the Government. Nor will it ſignifie much to alledge, That there are great pecuniary Mulcts already impoſed by Law on ſuch as ſhall be convicted of thoſe Crimes; for as they reckon it no great hazard, whether they ſhall be diſcovered or not, ſo if they eſcape once in twice in ſome Commodities, twice in thrice in others, and ſo in ſome more, ſome leſs, according to the Duty payable and firſt coſt of the Goods, they will ſtill be Gainers, and thence are encouraged to per<g ref="char:EOLhyphen"/>ſiſt; but one ſmart Corporal Animadverſion would be much more prevalent and effectual. The preſent Penalties being but like Doors and Locks to ſe<g ref="char:EOLhyphen"/>cure our private Eſtates, which may perhaps keep off modeſt Pilferers, but when bold Villains will notwithſtanding break in further, ſuch proviſions as theſe cannot be too little to reſtrain them. And if any of his Majeſties Of<g ref="char:EOLhyphen"/>ficers be found Tardy by wilful Negligence, Connivance, Bribes, <hi>&amp;c.</hi> That they not only loſe their places, but alſo undergo Corporal Puniſhment, and withall be ſo far diſabled to ſerve his Majeſty, or give Evidence, or be of a Jury, as much as if convicted of Perjury or Forgery at the Common Law; ſince beſides ſimple Injuſtice and fraud, their Offences are aggravated with the higheſt Ingratitude, Treachery and direct forſwearing themſelves, in de<g ref="char:EOLhyphen"/>ceiving their Royal Maſter; who graciouſly preferr'd them to their Places, and whom they are ſworn faithfully to ſerve. Moreover, beſides ſuch Corpo<g ref="char:EOLhyphen"/>ral Puniſhments on the Perſon, may it be fit, That the Ships, parts of Ships, Goods, Boats, Lighters, Cranes, Wharf, and Tackling whatſoever imployed or uſed in or about any ſuch fraud, be abſolutely forfeited, one Moiety to his Majeſty, the other to the Proſecutor (ſaving the Parts, Shares and Proper<g ref="char:EOLhyphen"/>ties of ſuch as are Innocent and no way privy thereunto.) For 'tis not only the Kings Intereſt, but the Subjects too, to have his Majeſties Duties duly and equally paid. For look how much the Ill dealer gain'd by defrauding the King of, ſo much the honeſt Merchant loſes, the other being able to un<g ref="char:EOLhyphen"/>derſell him proportionably. But by ſuch wholſome Proviſions duely executed, not only this deceitful Practice would be prevented, and thereby his Maje<g ref="char:EOLhyphen"/>ſties Revenues much Improved, but alſo his Majeſty might be eaſed of the Charge of near Half the number of Officers now Imployed, and yet his Re<g ref="char:EOLhyphen"/>venue more juſtly and duely collected.</p>
+            <p>
+               <hi>This Propoſer hath ſeveral other Propoſals to offer to this Honourable Houſe, all which equally tend to the Advance of his Majeſties Revenues,</hi> &amp;c. <hi>and alſo are as greatly for his Majeſties Subjects Intereſts to have them put into Laws.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>Anno 1685.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:174686:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
